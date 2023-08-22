@@ -11,4 +11,4 @@ _G.ToggleColor = Color3.fromRGB(256,256,256)
 _G.DraggerCircleColor = Color3.fromRGB(256,256,256)
 _G.BindColor = Color3.fromRGB(0,0,0)
 
-local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Furrycality/UwUscripts/main/uwulib.lua')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Furrycality/UwUscripts/main/uwulib.lua')))()
